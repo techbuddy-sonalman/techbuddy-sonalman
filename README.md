@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @techbuddy-sonalman
-- 👀 I’m interested in Learne and collaborate on Perl and Python projects
+- 👀 I’m interested in learning and collaborate on Perl and Python projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Perl and Python
 - 📫 How to reach me ...
